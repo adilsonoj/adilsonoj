@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Adilson Oliveira</h1>
-<h3 align="center">Mais um apaixonado por desenvolvimento no BR</h3>
+<h3 align="center">Desenvolvedor FullStack Java EE, Vue.js, Flutter </h3>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
