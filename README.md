@@ -58,4 +58,3 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adilsonoj&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adilsonoj)](https://github.com/adilsonoj/github-readme-stats)
