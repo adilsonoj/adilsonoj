@@ -55,9 +55,13 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
             alt="vuejs" width="35" height="35" />
     </a>
- <a href="https://pt-br.react.dev" target="_blank" rel="noreferrer">
+    <a href="https://pt-br.react.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
             alt="reactjs" width="35" height="35" />
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nextjs/nextjs-original.svg"
+            alt="nextjs" width="35" height="35" />
     </a>
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35"
@@ -69,6 +73,10 @@
 
 <h3 align="left">Ferramentas:</h3>
 <p align="left">
+     <a href="https://maven.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maven/maven-original.svg"
+            alt="maven" width="35" height="35" />
+    </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
             alt="aws" width="35" height="35" />
