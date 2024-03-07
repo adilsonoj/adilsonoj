@@ -1,5 +1,5 @@
 # Olá 👋, 
-### Sou Adilson Oliveira Desenvolvedor FullStack Java, Spring Boot, Node, Vue.js, React.js
+Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | Vue.js | React.js
 
 
 <p align="left">
