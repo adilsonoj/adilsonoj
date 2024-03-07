@@ -56,15 +56,7 @@
             alt="vuejs" width="35" height="35" />
     </a>
 
-    <a href="https://pt-br.react.dev" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg"
-            alt="reactjs" width="35" height="35" />
-    </a>
-
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="35"
-            height="35" />
-    </a>
+    
 
 
 </p>
