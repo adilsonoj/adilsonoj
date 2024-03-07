@@ -11,9 +11,9 @@
             alt="adilsonoj" height="30" width="35" /></a>
 </p>
 
-<h3 align="left">Linguagens e ferramentas:</h3>
 
-<h3 align="left">Linguagem Principal:</h3>
+
+<h3 align="left">Tecnologias principais:</h3>
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -71,8 +71,12 @@
 
 </p>
 
-<h3 align="left">Ferramentas:</h3>
+<h3 align="left">Ferramentas Utilizadas:</h3>
 <p align="left">
+     <a href="https://github.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/githubactions/githubactions-original.svg"
+            alt="github" width="35" height="35" />
+    </a>
      <a href="https://maven.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maven/maven-original.svg"
             alt="maven" width="35" height="35" />
