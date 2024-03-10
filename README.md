@@ -11,6 +11,10 @@ Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | Vue.js 
     </a>
 </p>
 
+
+[![wakatime](https://wakatime.com/badge/user/018dfc7e-547f-478e-b22e-4c4be4a74565.svg)](https://wakatime.com/@018dfc7e-547f-478e-b22e-4c4be4a74565)
+
+
 ## 👨‍🏭 Principais Trabalhos:
 
 - Desenvolvedor FullStack na [NearX Innovation School](https://nearx.com.br)
