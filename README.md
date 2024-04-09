@@ -30,13 +30,20 @@ Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | Vue.js 
 - Plataformas: Linux, Git
 - Segurança: Keycloak, Spring Authorization Server
 - Linguagens:
-  - Java: Spring Boot, Spring Data, Spring Security, Spring AMQP
+  - Java: Spring Boot, Spring Data, Spring Security
   - Python: Django, Django Rest Framework
   - TypeScript/JavaScript: Nest, Express, Vue, React, Next, Axios
 - ORM: Hibernate, Prisma
 - Banco de Dados: Oracle, PostgreSQL, MongoDB
 - Conhecimentos em: AWS, DigitalOcean
 
+
+## 🎓 Estudos:
+
+- Arquitetura de Sistemas Distribuidos
+- Micro-serviços
+- Sistemas Orientados a Eventos (EDA)
+- Kubernetes
 
 
 [![GitHub
