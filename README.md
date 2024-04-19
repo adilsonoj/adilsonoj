@@ -23,7 +23,7 @@ Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | Vue.js 
 - Dev FullStack @ [NearX Innovation School](https://nearx.com.br)
 - Dev FullStack @ [B4 Creative](http://b4creative.com.br/)
 - Dev FullStack @ [GyMBrain](http://www.gymbrain.com.br/)
-- Analista de Sistemas | Dev FullStack na [Webzi](https://webzi.com.br/).
+- Analista de Sistemas | Dev FullStack @ [Webzi](https://webzi.com.br/).
 
 
 ## 🎯 Habilidades:
