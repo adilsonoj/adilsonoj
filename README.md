@@ -1,5 +1,5 @@
 # Olá 👋, 
-Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | Vue.js | React.js
+Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | React.js
 
 
 <p align="left">
@@ -13,9 +13,6 @@ Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | Vue.js 
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adilsonoj" height="30" width="30" />
     </a>
 </p>
-
-
-[![wakatime](https://wakatime.com/badge/user/018dfc7e-547f-478e-b22e-4c4be4a74565.svg)](https://wakatime.com/@018dfc7e-547f-478e-b22e-4c4be4a74565)
 
 
 ## 👨‍🏭 Principais Trabalhos:
