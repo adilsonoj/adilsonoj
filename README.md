@@ -29,11 +29,12 @@ Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | React.j
 - DevOps: Docker, Docker-compose, Jenkins, Github Actions
 - Observalidade: Prometheus, Grafana
 - Plataformas: Linux, Git
-- Segurança: Keycloak, Spring Authorization Server
+- Segurança: Keycloak, Spring Authorization Server, Oauth2
 - Linguagens:
   - Java: Spring Boot, Spring Data, Spring Security
   - Python: Django, Django Rest Framework
   - TypeScript/JavaScript: Nest,js, Express, Vue.js, React.js, Next.js, Axios
+  - Flutter
 - ORM: Hibernate, Prisma
 - Banco de Dados: Oracle, PostgreSQL, MongoDB
 - Conhecimentos em: AWS, DigitalOcean
@@ -43,8 +44,7 @@ Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | React.j
 
 - Arquitetura de Sistemas Distribuidos
 - Micro-serviços
-- Sistemas Orientados a Eventos (EDA)
-- Kubernetes
+- Agentes de IA
 
 
 [![GitHub
