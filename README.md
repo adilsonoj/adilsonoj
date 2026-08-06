@@ -2,48 +2,36 @@
 Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | React.js
 
 
-<p align="left">
-    <a href="https://twitter.com/adilsonoj" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adilsonoj" height="30" width="30" />
-    </a>&nbsp;   
-    <a href="https://www.linkedin.com/in/adilson-oliveira-jr/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adilsonoj" height="30" width="30" />
-    </a>&nbsp; 
-    <a href="https://www.instagram.com/adilsondevbr/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adilsonoj" height="30" width="30" />
-    </a>
-</p>
-
-
-## 👨‍🏭 Principais Trabalhos:
-
-- Tech Lead | Arquiteto de Soluções @ [NearX Innovation School](https://nearx.com.br)
-- Dev FullStack @ [B4 Creative](http://b4creative.com.br/)
-- Dev FullStack @ [GyMBrain](http://www.gymbrain.com.br/)
-- Arquiteto de Soluções | Dev FullStack @ [Webzi](https://webzi.com.br/).
+| Cargo | Empresa |
+|---|---|
+| Tech Lead \| Arquiteto de Soluções | [NearX Innovation School](https://nearx.com.br) |
+| Dev FullStack | [B4 Creative](http://b4creative.com.br/) |
+| Dev FullStack | [GyMBrain](http://www.gymbrain.com.br/) |
+| Arquiteto de Soluções \| Dev FullStack | [Webzi](https://webzi.com.br/) |
+ 
+---
 
 
 ## 🎯 Habilidades:
 
 - Web: HTTPS, REST, WebSocket
 - DevOps: Docker, Docker-compose, Jenkins, Github Actions
-- Observalidade: Prometheus, Grafana
-- Plataformas: Linux, Git
+- Observalidade: Prometheus, Grafana, Opentelemetry
 - Segurança: Keycloak, Spring Authorization Server, Oauth2
 - Linguagens:
-  - Java: Spring Boot, Spring Data, Spring Security
-  - Python: Django, Django Rest Framework
-  - TypeScript/JavaScript: Nest,js, Express, Vue.js, React.js, Next.js, Axios
+  - Java: Spring Framework
+  - TypeScript: Nest.js, Express, React.js, Next.js
+  - Python
   - Flutter
-- ORM: Hibernate, Prisma
+- ORM: Hibernate, TypeORM
 - Banco de Dados: Oracle, PostgreSQL, MongoDB
 - Conhecimentos em: AWS, DigitalOcean
 
 
 ## 🎓 Estudos:
 
-- Arquitetura de Sistemas Distribuidos
-- Micro-serviços
+- Web3
+- Blockchain
 - Agentes de IA
 
 
