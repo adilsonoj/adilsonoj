@@ -1,6 +1,7 @@
 # Olá 👋, 
-Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring Boot | Node | React.js
+Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring | Node | React.js
 
+## 👨‍🏭 Principais Trabalhos
 
 | Cargo | Empresa |
 |---|---|
