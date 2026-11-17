@@ -1,5 +1,5 @@
 # Olá 👋, 
-Sou Adilson Oliveira Desenvolvedor FullStack Java | Spring | Node | React.js
+Sou Adilson Oliveira, Arquiteto de Software e Desenvolvedor FullStack com mais de 20 anos de experiência transformando problemas complexos em soluções escaláveis. Atuo do desenho da arquitetura à entrega em produção, com foco em Java, Node.js/TypeScript, cloud-native e Web3. Apaixonado por formar e treinar equipes técnicas, compartilhando conhecimento para elevar a maturidade de times de desenvolvimento.
 
 ## 👨‍🏭 Principais Trabalhos
 
